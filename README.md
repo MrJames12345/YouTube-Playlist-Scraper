@@ -1,2 +1,4 @@
-# YouTube-Playlist-Scraper
-Get song tags of a given list of YouTube songs.
+# REQUIRED LIBRARIES:
+Jsoup (External: https://jsoup.org/download)
+YouTubeVideoScraper (My repo: YouTube-Video-Scraper)
+Exceptions (My repo: Exceptions)
